@@ -31,7 +31,6 @@ public class RegisterServlet extends HttpServlet {
  	// Caso contrario , Usted es mayor de edad para ingresar a este web site.
     
     
-    
 	/**
 	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
 	 */
