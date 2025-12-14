@@ -22,6 +22,16 @@ public class RegisterServlet extends HttpServlet {
         // TODO Auto-generated constructor stub
     }
 
+    
+    // Ejercicio :
+    //
+    // Crear el campo edad en el formulario
+ 	// Verificar que si es menor de edad, muestre por pantalla
+ 	// Usted no puede ingrear a esta web site
+ 	// Caso contrario , Usted es mayor de edad para ingresar a este web site.
+    
+    
+    
 	/**
 	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
 	 */
